@@ -1,0 +1,2 @@
+Bday = input("Please enter your birthday)
+print(f"Your birthday is on {Bday}!")
